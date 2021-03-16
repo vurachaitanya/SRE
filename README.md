@@ -26,3 +26,17 @@
 -	- Leverage automation
 -	- implement small more frequent changes
 -	- Embrace risk
+
+#### Compare Devops vs SRE
+-	SRE defines how to use devops methodology  
+-	Reduce organization silos
+-	Accepts failures as normal
+-	Implement gradual changes
+-	Leverage tooling and automation 
+-	Measure everything
+-	Devops | SRE
+-	Identifies issues for development to resolve| finds issues in production and resolves them themselves 
+-	Leaves production untouched | comfortable deploying to and making changes in production 
+-	Generally, stay within Development | Can Move across and between development and production teams.
+-	Gets products to production faster | manages the production environment.
+![SRE Vs Devops](https://github.com/vurachaitanya/SRE/blob/main/images/SRE%20VS%20Devops.JPG)
