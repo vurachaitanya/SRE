@@ -1,7 +1,7 @@
 #### SRE Terms & Jargons:
--	**SLI :** Service level indicator – the parameters by which a product or service are measured. 
--	**SLO:** Service level objectives – Setting SLO enables SREs to define objectives and measures for reliability.
--	**SLA :** Service level agreement – The agreement with the customer on the level of availability of the product. 
+-	**SLI :** Service level indicator – the parameters by which a product or service are measured. A number indicating how reliable a product or service is
+-	**SLO:** Service level objectives – Setting SLO enables SREs to define objectives and measures for reliability. An agreement with product stake holders on how reliable a product is
+-	**SLA :** Service level agreement – The agreement with the customer on the level of availability of the product. An agreement with the customer on how reliable a product or service will be
 -	**Blameless Postmortems:** Blamelessness allows engineers to clearly identify where issues lie and ensure the same problem doesn’t happen twice. 
 -	**Incident Management:** SREs track all incidents to monitor for progress and higher reliability. 
 -	**Automation :** automation is the use of software to create repeatable processes that don’t require human intervention.
