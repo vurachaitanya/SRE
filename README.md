@@ -4,6 +4,11 @@
 - https://etcnotes.com/posts/sre/
 - https://sre.google/sre-book/evolving-sre-engagement-model/
 - https://sre.google/workbook/implementing-slos/
+- [Google SRE Books](https://sre.google/books/)
+- [Google SRE workbook](https://sre.optum.com/files/Google_theSiteReliabilityWorkbook.pdf)
+- [Newrelic SRE](https://newrelic.com/resources/ebooks/site-reliability-engineering)
+- [SRE Wiki](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+- [SRE Oreilly](https://www.oreilly.com/content/site-reliability-engineering-sre-a-simple-overview/)
 
 #### SRE Role :
 -	SRE is an intersection of Software Engineering and IT Operations.
