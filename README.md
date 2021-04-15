@@ -1,4 +1,10 @@
 # SRE
+
+#### Learning tools stack:
+- https://etcnotes.com/posts/sre/
+- https://sre.google/sre-book/evolving-sre-engagement-model/
+- https://sre.google/workbook/implementing-slos/
+
 #### SRE Role :
 -	SRE is an intersection of Software Engineering and IT Operations.
 -	SRE are responsible for the full technology stack for their product. 
